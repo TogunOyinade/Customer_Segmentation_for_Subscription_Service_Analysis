@@ -143,9 +143,11 @@ FROM [dbo].[Customer_Segmentation_for_Subscription_Service_Analysis];
 ```
 ### DATA VISUALIZATION
 ---
-(https://github.com/TogunOyinade/Customer_Segmentation_for_Subscription_Service_Analysis/blob/main/Screenshot%202024-11-05%20104427.png)
+![Screenshot](https://github.com/TogunOyinade/Customer_Segmentation_for_Subscription_Service_Analysis/blob/main/Screenshot%202024-11-05%20104427.png)
 
-(https://github.com/TogunOyinade/Customer_Segmentation_for_Subscription_Service_Analysis/blob/main/Customer_Performance_Visualization.pdf)
+![Pivot_Table](https://github.com/TogunOyinade/Customer_Segmentation_for_Subscription_Service_Analysis/blob/main/Customer_Analysis_Pivot.csv)
+
+![Data_Visual](https://github.com/TogunOyinade/Customer_Segmentation_for_Subscription_Service_Analysis/blob/main/Customer_Performance_Visualization.pdf)
 
 
 
