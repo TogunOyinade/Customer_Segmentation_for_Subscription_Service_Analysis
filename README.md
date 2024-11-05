@@ -60,19 +60,6 @@ The Primary source of Data used is the Customer Segmentation for a Subscription 
    - Included slicers for interactive analysis by subscription type, region, and cancellation status.
   
 
-
-
-
-### TOOLS USED
----
-* Microsoft Excel [Download here](https://www.microsoft.com)
-
-
-
-* SQL- Structured Query Language for querying the Customer Subscription
-
-* PowerBI- for creating Visualization
-
 ### DATA CLEANING AND PREPARATION
 ---
 For Data cleaning and preparation, I carried out the following:
@@ -86,7 +73,7 @@ For Data cleaning and preparation, I carried out the following:
 ---
 This involved exploring the data to answer some questions such as:
 
-* understanding customer behavior
+* Understanding customer behavior
   
 *  track subscription types
   
