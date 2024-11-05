@@ -1,4 +1,4 @@
-# Customer_Segmentation_for_Subscription_Service_Analysis
+# Customer_Segmentation_Analysis
 
 ### PROJECT TITLE: CUSTOMER-SEGMENTATION-ANALYSIS
 ---
