@@ -31,6 +31,7 @@ The Primary source of Data used is the Customer Segmentation for a Subscription 
 
 ## Tools Used
 - **Microsoft Excel**: Used for
+  
   a. Checked for Duplicates
   
   b. Remove Duplicates (data cleaning)
