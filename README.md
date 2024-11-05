@@ -148,28 +148,6 @@ FROM [dbo].[Customer_Segmentation_for_Subscription_Service_Analysis];
 ![Screenshot (20)](https://github.com/user-attachments/assets/d07fd3f5-90bb-49d0-86bf-e5cc5da6ba29)
 
 
-### RECOMMENDATION AND CONCLUSION
----
-1. Basic subscription type had the highest number of Customers
-2. Almost half of the Customers canceled their Subscription.
-
-* A survey should be done to understand why the customers canceled their subcription.
-*  More interesting or innovative measures should be put in place to encourage customers to select or subscribe to the other segments.
-
-  THANK YOU😊
-  
-
-
-
-
-
-
-
-
-
-
-
-
 ## Key Insights
 - **Customer Segmentation**: The majority of customers come from the East, with Basic being the most popular subscription type.
 - **Cancellation Trends**: The highest cancellation was with the Basic Subscription type and was from the North.
@@ -181,3 +159,6 @@ FROM [dbo].[Customer_Segmentation_for_Subscription_Service_Analysis];
 - Focus on improving retention strategies for customers at high risk of early cancellation.
 - Target marketing campaigns based on popular regions and subscription types.
 - Consider incentives for long-term subscribers to increase average subscription duration.
+- Survey should be conducted to know why most subscription was canceled. 
+
+THANK YOU.
