@@ -82,7 +82,7 @@ This involved exploring the data to answer some questions such as:
   
 ### DATA ANALYSIS
 ---
-some basic lines of codes and queries used:
+Key SQL queries used for analysis included:
 
 ```
 SELECT * FROM [dbo].[Customer_Segmentation_for_Subscription_Service_Analysis];
